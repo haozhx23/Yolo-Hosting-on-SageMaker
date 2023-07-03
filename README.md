@@ -1,4 +1,4 @@
-# yolovx-on-sagemaker
+# YoloVx-on-SageMaker
 
 Yolo-Vx deploy & inference on SageMaker
 
